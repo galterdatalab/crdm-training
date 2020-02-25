@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Clinical Research Data Management Training 
 
 You can use the [editor on GitHub](https://github.com/galterdatalab/crdm-training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
