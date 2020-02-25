@@ -7,6 +7,5 @@ Enterprise Data Warehouses (EDWs) play an increasingly important role on academi
 * [About](pages/about.md)
 * [Training](pages/training.md)
 * [User Guidebook](pages/about.md)
-* [Sample Use Cases](pages/use_cases/index.md)
 * [FAQs](pages/faqs.md)
 * [Provide Feedback](pages/provide_feedback.md)
