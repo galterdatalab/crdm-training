@@ -34,4 +34,4 @@ In 2018, the [Northwestern Medicine Enterprise Data Warehouse (NMEDW)](https://w
 
 | **Name** | **GitHub Handle**  | **Title** |
 | ---| --- | --- |
-| Matt Carson | (@carsonicator) | Head, Digital Systems, Galter Health Sciences Library |
+| Matt Carson | @carsonicator | Head, Digital Systems, Galter Health Sciences Library |
