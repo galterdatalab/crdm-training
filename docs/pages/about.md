@@ -15,3 +15,5 @@ In 2018, the Northwestern Medicine Enterprise Data Warehouse (NMEDW) received ov
 3.  To enhance reusability of clinical reports and database queries by creating workflows and training for preserving them in our next-generation research data management system and making them discoverable to Northwestern’s research community.
 
 4.  To use our work and experience to provide a template for clinical research data education and training for other institutions.
+
+#### Back to [home](https://galterdatalab.github.io/crdm-training/)

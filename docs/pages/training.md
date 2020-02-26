@@ -21,3 +21,5 @@ We will implement a training curriculum via a series of workshops designed to me
   5. Introduction to R
   6. Data Cleaning and Organization with R
   7. Data Exploration with R and SQL
+
+#### Back to [home](https://galterdatalab.github.io/crdm-training/)

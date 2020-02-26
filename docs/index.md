@@ -2,6 +2,6 @@ This site describes the _Clinical Research Data Management Training Program_, ba
 
 * [About](pages/about.md)
 * [Training](pages/training.md)
-* [User Guidebook](pages/about.md)
+* [User Guidebook](pages/user_guidebook.md)
 * [FAQs](pages/faqs.md)
 * [Provide Feedback](pages/provide_feedback.md)
