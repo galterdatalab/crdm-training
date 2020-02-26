@@ -1,5 +1,3 @@
-# Clinical Data Retrieval and Management Program
-
 ## Workshop Training
 
 We will implement a training curriculum via a series of workshops designed to meet critical needs of clinical researchers. The curriculum will feature new workshops, as well as leverage existing training materials that have been updated and improved to address key aspects of clinical research through an EDW.
