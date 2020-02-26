@@ -1,4 +1,4 @@
 
-Create an Issue on the CTS-Personas GitHub page. This will notify the Peronas team lead of the proposed issue and bring it to the attention of the project team. CTS-Personas is a public and open GitHub repository, which allows other members of the CTSA consortium to view and comment on the issues, and to work together toward solutions.
+We welcome your feedback! Please open an issue on [our GitHub page](https://github.com/galterdatalab/crdm-training/issues) to ask questions and make comments. Our project team will be notified.
 
 #### Back to [home](https://galterdatalab.github.io/crdm-training/)
