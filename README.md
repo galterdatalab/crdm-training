@@ -35,3 +35,7 @@ In 2018, the [Northwestern Medicine Enterprise Data Warehouse (NMEDW)](https://w
 | **Name** | **GitHub Handle**  | **Title** |
 | ---| --- | --- |
 | Matt Carson | @carsonicator | Head, Digital Systems, Galter Health Sciences Library |
+
+## Funding Acknowledgement
+
+Developed resources reported in this repository are supported by the National Library of Medicine (NLM), National Institutes of Health (NIH) under cooperative agreement number 1UG4LM012346. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
