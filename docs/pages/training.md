@@ -1,6 +1,6 @@
 ## Workshop Training
 
-We will implement a training curriculum via a series of workshops designed to meet critical needs of clinical researchers. The curriculum will feature new workshops, as well as leverage existing training materials that have been updated and improved to address key aspects of clinical research through an EDW.
+We are in the process of implementing a training curriculum via a series of workshops designed to meet critical needs of clinical researchers. The curriculum will feature new workshops, as well as leverage existing training materials that have been updated and improved to address key aspects of clinical research data.
 
 1. [Best Practices in Research Data Management and Data Sharing](https://galter.northwestern.edu/course_info/236)
 
