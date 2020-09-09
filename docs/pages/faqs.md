@@ -1,3 +1,2 @@
-Are there prequisites to any of these workshops?
 
 #### Back to [home](https://galterdatalab.github.io/crdm-training/)
