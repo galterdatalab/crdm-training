@@ -6,15 +6,23 @@ We are in the process of implementing a training curriculum via a series of work
 
 2. Understanding and Implementing FAIR Principles
 
-3. Introduction to Clinical Databases and SQL
+3. An Introduction to Structured Query Language (SQL) for Clinical Researchers
+    * Introduction to databases
+    * Normalization and data modeling 
+    * Introduction to SQL
+    * Recognizing bad data
+    * Documentation and metadata
+    * In-class programming exercises using a mock clinical database
+
+4. Clinical Databases and SQL
     *  Accessing and querying the [MIMIC critical care database](https://mimic.physionet.org/)
     *  How to use the Unified Medical Language System (UMLS) [Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
 
-4. Sharing and Preserving Biomedical Data
+5. Sharing and Preserving Biomedical Data
     *  Introduces participants to best practices for enhancing reproducibility of clinical research data projects
     *  Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
 
-5. Additional Workshops
+6. Additional Workshops
     * Non-programming track
         * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
         * Advanced Data Manipulation with OpenRefine
