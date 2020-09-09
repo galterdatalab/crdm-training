@@ -2,7 +2,7 @@
 
 We will implement a training curriculum via a series of workshops designed to meet critical needs of clinical researchers. The curriculum will feature new workshops, as well as leverage existing training materials that have been updated and improved to address key aspects of clinical research through an EDW.
 
-1. Introduction to Clinical Research Data Management
+1. [Best Practices in Research Data Management and Data Sharing](https://galter.northwestern.edu/course_info/236)
 
 2. Understanding and Implementing FAIR Principles
 
@@ -14,13 +14,17 @@ We will implement a training curriculum via a series of workshops designed to me
   *  Introduces participants to best practices for enhancing reproducibility of clinical research data projects
   *  Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
 
-* Non-programming track [OPTIONAL]:
-  5. Introduction to Data Cleaning with OpenRefine
-  6. Advanced Data Manipulation with OpenRefine
-
-* Programming track [OPTIONAL]:
-  5. Introduction to R
-  6. Data Cleaning and Organization with R
-  7. Data Exploration with R and SQL
+5. Additional Workshops
+  * Non-programming track:
+    * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
+    * Advanced Data Manipulation with OpenRefine
+  * Programming track:
+    * Introduction to R
+    * Data Cleaning and Organization with R
+    * Data Exploration with R and SQL
+  * 10 Simple Rules Series
+    * [10 Simple Rules for Conducting a Data Inventory](https://galter.northwestern.edu/course_info/245)
+    * [10 Simple Rules for File Organization](https://galter.northwestern.edu/course_info/246)
+    * [10 Simple Rules for Data Cleaning with Excel](https://galter.northwestern.edu/course_info/247)
 
 #### Back to [home](https://galterdatalab.github.io/crdm-training/)
