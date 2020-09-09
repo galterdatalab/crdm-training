@@ -15,16 +15,16 @@ We will implement a training curriculum via a series of workshops designed to me
   *  Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
 
 5. Additional Workshops
-  * Non-programming track:
-    * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
-    * Advanced Data Manipulation with OpenRefine
-  * Programming track:
-    * Introduction to R
-    * Data Cleaning and Organization with R
-    * Data Exploration with R and SQL
+ * Non-programming track
+  * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
+  * Advanced Data Manipulation with OpenRefine
+ * Programming track:
+  * Introduction to R
+  * Data Cleaning and Organization with R
+  * Data Exploration with R and SQL
   * 10 Simple Rules Series
-    * [10 Simple Rules for Conducting a Data Inventory](https://galter.northwestern.edu/course_info/245)
-    * [10 Simple Rules for File Organization](https://galter.northwestern.edu/course_info/246)
-    * [10 Simple Rules for Data Cleaning with Excel](https://galter.northwestern.edu/course_info/247)
+   * [10 Simple Rules for Conducting a Data Inventory](https://galter.northwestern.edu/course_info/245)
+   * [10 Simple Rules for File Organization](https://galter.northwestern.edu/course_info/246)
+   * [10 Simple Rules for Data Cleaning with Excel](https://galter.northwestern.edu/course_info/247)
 
 #### Back to [home](https://galterdatalab.github.io/crdm-training/)
