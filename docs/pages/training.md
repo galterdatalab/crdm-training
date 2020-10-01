@@ -8,13 +8,13 @@ We are in the process of implementing a training curriculum via a series of work
 
 3. An Introduction to Structured Query Language (SQL) for Clinical Researchers
     * Introduction to databases
-    * Normalization and data modeling 
+    * Normalization and data modeling
     * Introduction to SQL
     * Recognizing bad data
     * Documentation and metadata
     * In-class programming exercises using a mock clinical database
 
-4. Clinical Databases and SQL
+4. Querying Clinical Databases with SQL
     *  Accessing and querying the [MIMIC critical care database](https://mimic.physionet.org/)
     *  How to use the Unified Medical Language System (UMLS) [Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
 
