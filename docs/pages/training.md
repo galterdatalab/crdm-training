@@ -27,6 +27,7 @@ We are in the process of implementing a training curriculum via a series of work
         * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
         * Advanced Data Manipulation with OpenRefine
     * Programming track
+        * [Introduction to R Studio](https://github.com/carsonicator/intro-to-rstudio)
         * Introduction to R
         * Data Cleaning and Organization with R
         * Data Exploration with R and SQL
