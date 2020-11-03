@@ -28,7 +28,7 @@ We are in the process of implementing a training curriculum via a series of work
         * Advanced Data Manipulation with OpenRefine
     * Programming track
         * [Introduction to R Studio](https://github.com/carsonicator/intro-to-rstudio)
-        * Introduction to R
+        * R Refresher
         * Data Cleaning and Organization with R
         * Data Exploration with R and SQL
     * 10 Simple Rules Series
