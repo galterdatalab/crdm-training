@@ -25,7 +25,8 @@ We are in the process of implementing a training curriculum via a series of work
 6. Additional Workshops
     * Non-programming track
         * [Cleaning Spreadsheet Data with OpenRefine](https://galter.northwestern.edu/course_info/242)
-        * Advanced Data Manipulation with OpenRefine
+        * [Essential Spreadsheet Data Cleaning with OpenRefine](https://galter.northwestern.edu/course_info/255)
+        * [Data Projects: Setup and Key Tips for Excel](https://galter.northwestern.edu/course_info/256)
     * Programming track
         * [Introduction to R Studio](https://github.com/galterdatalab/intro-to-rstudio)
         * [R Refresher](https://github.com/galterdatalab/r-refresher)
