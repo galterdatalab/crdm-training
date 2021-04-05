@@ -6,7 +6,7 @@ We are in the process of implementing a training curriculum via a series of work
 
 2. Understanding and Implementing FAIR Principles
 
-3. An Introduction to Structured Query Language (SQL) for Clinical Researchers
+3. [An Introduction to Structured Query Language (SQL) for Clinical Researchers](https://galter.northwestern.edu/course_info/257)
     * Introduction to databases
     * Normalization and data modeling
     * Introduction to SQL
