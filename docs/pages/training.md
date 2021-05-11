@@ -4,15 +4,9 @@ We are in the process of implementing a training curriculum via a series of work
 
 1. [Best Practices in Research Data Management and Data Sharing](https://galter.northwestern.edu/course_info/236)
 
-2. Understanding and Implementing FAIR Principles
+2. [Understanding and Implementing FAIR Principles](https://galter.northwestern.edu/course_info/259)
 
 3. [An Introduction to Structured Query Language (SQL) for Clinical Researchers](https://galter.northwestern.edu/course_info/257)
-    * Introduction to databases
-    * Normalization and data modeling
-    * Introduction to SQL
-    * Recognizing bad data
-    * Documentation and metadata
-    * In-class programming exercises using a mock clinical database
 
 4. Querying Clinical Databases with SQL
     *  Accessing and querying the [MIMIC critical care database](https://mimic.physionet.org/)
