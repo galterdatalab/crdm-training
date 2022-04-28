@@ -4,7 +4,7 @@ We are in the process of implementing a training curriculum via a series of work
 
 1. [Best Practices in Research Data Management and Data Sharing](https://galter.northwestern.edu/course_info/236)
 
-2. [Understanding and Implementing FAIR Principles](https://galter.northwestern.edu/course_info/259)
+2. [Making Your Data FAIR](https://galter.northwestern.edu/course_info/259)
 
 3. [An Introduction to Structured Query Language (SQL) for Clinical Researchers](https://galter.northwestern.edu/course_info/257)
 
