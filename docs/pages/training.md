@@ -57,7 +57,7 @@ We are in the process of implementing a training curriculum via a series of work
     * Available by request
 
 13. Data Exploration with R and SQL  
-    * [Course materials](https://github.com/carsonicator/eda-with-r-and-sql)
+    * [Course materials](https://github.com/carsonicator/eda-with-r-and-sql) [Private]
     * Available Winter 2022
 
 ### Simple Rules Series
