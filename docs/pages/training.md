@@ -17,6 +17,7 @@ We are in the process of implementing a training curriculum via a series of work
     *  Introduces participants to best practices for enhancing reproducibility of clinical research data projects
     *  Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
     * Available Winter 2022
+    * For related guidance, see our new class on [Getting to Know the NIH Policy on Data Management and Sharing](https://galter.northwestern.edu/course_info/265)
 
 5. An Introduction to Structured Query Language (SQL) for Clinical Researchers
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/257)
