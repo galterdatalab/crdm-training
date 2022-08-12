@@ -14,10 +14,14 @@ We are in the process of implementing a training curriculum via a series of work
     * [Course materials](https://doi.org/10.18131/g3-h30e-v524)
 
 4. Sharing and Preserving Biomedical Data
-    *  Introduces participants to best practices for enhancing reproducibility of clinical research data projects
-    *  Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
-    * Available Winter 2022
-    * For related guidance, see our new class on [Getting to Know the NIH Policy on Data Management and Sharing](https://galter.northwestern.edu/course_info/265)
+    * Part 1
+        * [Getting to Know the NIH Policy on Data Management and Sharing](https://galter.northwestern.edu/course_info/265)
+        * Supplemental [guidance for creating an NIH data management and sharing plan](https://galter.northwestern.edu/galterguides?url=https%3A%2F%2Flibguides.galter.northwestern.edu%2FNIH-Data-Management-Plan)
+        * [Ten simple rules for maximizing the recommendations of the NIH data management and sharing plan
+](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010397)
+    * Part 2 (Available Winter 2022)
+        * Introduces participants to best practices for enhancing reproducibility of clinical research data projects
+        * Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
 
 5. An Introduction to Structured Query Language (SQL) for Clinical Researchers
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/257)
