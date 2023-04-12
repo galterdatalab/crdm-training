@@ -31,7 +31,11 @@ We are in the process of implementing a training curriculum via a series of work
     *  Accessing and querying the [MIMIC critical care database](https://mimic.physionet.org/)
     *  How to use the Unified Medical Language System (UMLS) [Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
     * [Course materials](https://github.com/galterdatalab/querying-clinical-dbs-with-sql) [Private]
-    * Available by request  
+    * Available by request
+
+7. Principles of Effective Data Visualization
+    * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/270)
+    * [Course materials](https://docs.google.com/presentation/d/18q3PhBU8ujd_fYQGcSXYVGRBvfjEAHq4aA3CpgkZtOA/edit?usp=sharing)
 
 ### Non-coding Track
 
