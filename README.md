@@ -31,3 +31,7 @@ In 2018, the [Northwestern Medicine Enterprise Data Warehouse (NMEDW)](https://w
 ## Funding Acknowledgement
 
 Developed resources reported in this repository are supported by the National Library of Medicine (NLM), National Institutes of Health (NIH) under cooperative agreement number 1UG4LM012346. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+## Citation
+
+Carson MB, Gonzales S, Shaw P, Schneider D, Holmes K. Bridging the gap: A library-based collaboration to enhance data skills for clinical researchers. Learn Health Syst. 2023 Apr; 7(2): e10339. Published online 2022 Sep 6. doi: [10.1002/lrh2.10339](https://doi.org/10.1002/lrh2.10339)
