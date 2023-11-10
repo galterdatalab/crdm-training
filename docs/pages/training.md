@@ -7,7 +7,7 @@ We are in the process of implementing a training curriculum via a series of work
     * [Course materials](https://doi.org/10.18131/g3-b1qc-3y36)
 
 2. Clinical Research Data: Tools, Tips, and Policies
-    * Available Winter 2022
+    * _In development_
 
 3. Making Your Data FAIR
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/259)
@@ -19,9 +19,11 @@ We are in the process of implementing a training curriculum via a series of work
         * Supplemental [guidance for creating an NIH data management and sharing plan](https://galter.northwestern.edu/galterguides?url=https%3A%2F%2Flibguides.galter.northwestern.edu%2FNIH-Data-Management-Plan)
         * [Ten simple rules for maximizing the recommendations of the NIH data management and sharing plan
 ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010397)
-    * Part 2 (Available Winter 2022)
-        * Introduces participants to best practices for enhancing reproducibility of clinical research data projects
-        * Includes training on our next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/)
+    * Part 2
+        * Introduces participants to best practices for enhancing reproducibility and preservation of research output.
+        * [Prism: Collect, Share, and Preserve the Full Spectrum of Your Work](https://galter.northwestern.edu/course_info/260)
+          * [Prism](https://prism.northwestern.edu/) is the institutional repository for the research and scholarly output of Northwestern Feinberg School of Medicine (FSM).
+          * Prism is based on the next-generation research data management platform, [InvenioRDM](https://invenio-software.org/products/rdm/).
 
 5. An Introduction to Structured Query Language (SQL) for Clinical Researchers
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/257)
