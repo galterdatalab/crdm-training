@@ -4,14 +4,14 @@ We are in the process of implementing a training curriculum via a series of work
 
 1. Best Practices in Research Data Management and Data Sharing
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/236)
-    * [Course materials](https://doi.org/10.18131/g3-b1qc-3y36)
+    * [Course materials](https://doi.org/10.18131/38m55-95x08)
 
 2. Clinical Research Data: Tools, Tips, and Policies
     * _In development_
 
 3. Making Your Data FAIR
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/259)
-    * [Course materials](https://doi.org/10.18131/g3-h30e-v524)
+    * [Course materials](https://doi.org/10.18131/9krqe-k0578)
 
 4. Sharing and Preserving Biomedical Data
     * Part 1
@@ -43,15 +43,15 @@ We are in the process of implementing a training curriculum via a series of work
 
 7. Cleaning Spreadsheet Data with OpenRefine
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/242)
-    * [Course materials](https://doi.org/10.18131/g3-vte9-qh32)
+    * [Course materials](https://doi.org/10.18131/fvj6z-a6987)
 
 8. Essential Spreadsheet Data Cleaning with OpenRefine
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/255)
-    * [Course materials](https://doi.org/10.18131/g3-eq0h-0b85)
+    * [Course materials](https://doi.org/10.18131/0meh7-fek69)
 
 9. Data Projects: Setup and Key Tips for Excel
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/256)
-    * [Course materials](https://doi.org/10.18131/g3-nv5k-j731)
+    * [Course materials](https://doi.org/10.18131/897em-tkj71)
 
 ### Coding Track
 
@@ -75,14 +75,14 @@ We are in the process of implementing a training curriculum via a series of work
 
 14. 10 Simple Rules for Conducting a Data Inventory
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/245)
-    * [Course materials](https://doi.org/10.18131/g3-cyd3-ra34)
+    * [Course materials](https://doi.org/10.18131/wk1cp-hdc58)
 
 15. 10 Simple Rules for File Organization
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/246)
-    * [Course materials](https://doi.org/10.18131/g3-hgs7-ag90)
+    * [Course materials](https://doi.org/10.18131/v0705-wvd51)
 
 16. 10 Simple Rules for Data Cleaning with Excel
     * [View class on Galter Library's website](https://galter.northwestern.edu/course_info/247)
-    * [Course materials](https://doi.org/10.18131/g3-9efg-n564)
+    * [Course materials](https://doi.org/10.18131/n13r3-7zk56)
 
 #### Back to [home](https://galterdatalab.github.io/crdm-training/)
